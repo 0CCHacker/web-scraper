@@ -246,7 +246,7 @@ export default function Home() {
                 <span aria-hidden className="text-2xl">→</span>
               </a>
               <a
-                href="https://github.com/0CCHacker"
+                href="https://github.com/huynhchitai"
                 className="group flex items-center justify-between border-2 border-ink bg-bone px-5 py-4 text-ink transition hover:bg-ink hover:text-bone"
               >
                 <span className="flex flex-col">
@@ -256,12 +256,12 @@ export default function Home() {
                 <span aria-hidden className="text-2xl">↗</span>
               </a>
               <a
-                href="https://github.com/0CCHacker"
+                href="https://github.com/huynhchitai"
                 className="group flex items-center justify-between border-2 border-ink bg-bone px-5 py-4 text-ink transition hover:bg-ink hover:text-bone"
               >
                 <span className="flex flex-col">
                   <span className="folio">github</span>
-                  <span className="mt-1 font-mono text-sm tracking-tight">github.com/0CCHacker</span>
+                  <span className="mt-1 font-mono text-sm tracking-tight">github.com/huynhchitai</span>
                 </span>
                 <span aria-hidden className="text-2xl">↗</span>
               </a>
@@ -284,9 +284,9 @@ export default function Home() {
         <div className="mx-auto flex max-w-[1400px] flex-col items-start justify-between gap-3 px-6 py-6 sm:flex-row sm:items-center sm:px-10">
           <p className="colophon">Tai Huynh · 2026 · built in next.js, vertex AI &amp; cheerio</p>
           <p className="colophon text-ink-quiet">
-            <a href="https://github.com/0CCHacker" className="hover:text-ink">huynhchitai.com</a>
+            <a href="https://github.com/huynhchitai" className="hover:text-ink">huynhchitai.com</a>
             <span className="mx-2 text-rule">·</span>
-            <a href="https://github.com/0CCHacker" className="hover:text-ink">github</a>
+            <a href="https://github.com/huynhchitai" className="hover:text-ink">github</a>
             <span className="mx-2 text-rule">·</span>
             <a href="mailto:huynhchitai.070306@gmail.com" className="hover:text-ink">email</a>
           </p>

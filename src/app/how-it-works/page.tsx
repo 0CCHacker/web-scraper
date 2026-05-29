@@ -224,9 +224,9 @@ export default function HowItWorks() {
         <div className="mx-auto flex max-w-[1400px] flex-col items-start justify-between gap-3 px-6 py-6 sm:flex-row sm:items-center sm:px-10">
           <p className="colophon">Tai Huynh · 2026 · built in next.js, vertex AI &amp; cheerio</p>
           <p className="colophon text-ink-quiet">
-            <a href="https://github.com/0CCHacker" className="hover:text-ink">huynhchitai.com</a>
+            <a href="https://github.com/huynhchitai" className="hover:text-ink">huynhchitai.com</a>
             <span className="mx-2 text-rule">·</span>
-            <a href="https://github.com/0CCHacker" className="hover:text-ink">github</a>
+            <a href="https://github.com/huynhchitai" className="hover:text-ink">github</a>
             <span className="mx-2 text-rule">·</span>
             <a href="mailto:huynhchitai.070306@gmail.com" className="hover:text-ink">email</a>
           </p>
